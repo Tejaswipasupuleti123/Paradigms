@@ -4,6 +4,5 @@ let rec productOfOddNumbers n =
     else if n % 2 = 0 then productOfOddNumbers (n - 1)
     else n * productOfOddNumbers (n - 2)
 
-// Example usage
 let result2 = productOfOddNumbers 11
 printfn "Product of odd numbers from 11 to 1: %d" result2  
