@@ -7,4 +7,4 @@ let rec productOfList lst =
 // Example usage
 let myList = [2; 3; 4]
 let result = productOfList myList
-printfn "Product of list: %d" result   // Output: Product of list: 24
+printfn "Product of list: %d" result   
