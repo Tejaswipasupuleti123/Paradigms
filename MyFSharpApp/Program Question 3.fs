@@ -6,4 +6,4 @@ let rec productOfOddNumbers n =
 
 // Example usage
 let result2 = productOfOddNumbers 11
-printfn "Product of odd numbers from 11 to 1: %d" result2   // Output: Product of odd numbers from 11 to 1: 10395
+printfn "Product of odd numbers from 11 to 1: %d" result2  
